@@ -8,7 +8,7 @@ This project involves the creation of a sign-up form for an imaginary service, u
 🔗 [Live Preview](https://g-m-yan.github.io/sign-up-form/)
 
 #### Screenshot of the Landing Page
-https://github.com/G-M-Yan/etch-a-sketch/blob/main/screenshot-sign-up-form.png
+https://github.com/G-M-Yan/sign-up-form/blob/main/screenshot-sign-up-form.png
 
 ## Technologies Used
 - HTML
