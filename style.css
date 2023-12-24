@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
+
+body {
+    font-family: 'Source Code Pro', monospace;
+    background-color: #240a33;
+    color: #abe3d1;
+    margin: 0;
+    display: flex;
+}
+
+img {
+    height: 100vh;
+    width: 80vh;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+    box-shadow: 0 0 5px 5px #240a33;
+}
+
+h1 {
+    font-size: 46px;
+}
+
+form {
+    font-size: 26px;
+    display: flex;
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+    margin: 2rem;
+    width: 25rem;
+    border-radius: 5px;
+}
+
+.boxes {
+    font-family: 'Source Code Pro', monospace;
+    font-size: 1.5rem;
+    font-weight: bold;
+    background-color: #abe3d1;
+    color: #240a33;
+    border: 1px solid #abe3d1;
+    border-radius: 5px;
+    padding: 2px;
+    margin-top: 5px;
+}
+
+.boxes:focus {
+    box-shadow: 0 0 10px 2px #abe3d1;
+}
+
+button {
+    font-family: 'Source Code Pro', monospace;
+    font-size: 18px;
+    font-weight: bold;
+    color: #240a33;
+    margin: 24rem -35.5rem;
+    padding: 0.5rem 1.5rem;
+    background-color: #abe3d1;
+    border: 2px solid #abe3d1;
+    border-radius: 8px;
+    transition: 0.2s;
+    position: absolute;
+}
+
+button:hover {
+    background-color: #240a33;
+    border: 2px solid #abe3d1;
+    color: #abe3d1;
+    cursor: pointer;
+}
+
+p {
+    margin-top: 6rem;
+}
+
+a {
+    color: #abe3d1;
+}
+
+a:visited {
+    color: #7c989a;
+}
