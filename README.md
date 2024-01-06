@@ -1,5 +1,3 @@
-Certainly! Here's an adapted README in the format you've provided:
-
 # Sign-Up Form Landing Page
 
 This project involves the creation of a sign-up form for an imaginary service, utilizing HTML and CSS to implement diverse web development skills.
